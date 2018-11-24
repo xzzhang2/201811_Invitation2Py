@@ -8,46 +8,41 @@ This one-day workshop, offered by the Data and Media Communication Concentration
 
 
 ## Content ##
-- **Section 1. Introduction**
-[Slides](/slides)
- 1. Who, What, How
- 2. Why programming
- 3. Digital and media education at a glance
- 4. Articulating the knowledge hub  
+### **Section 1. Introduction** [Slides](/slides)
+   1. Who, What, How
+   2. Why programming
+   3. Digital and media education at a glance
+   4. Articulating the knowledge hub  
 
 
-- **Section 2. Tool installation**
-[Slides](/slides)
- 1. Python 3.x
- 2. Anaconda
- 3. Markdown language
- 4. Jupyter Notebook (aka Python in a notebook)
+### **Section 2. Tool installation** [Slides](/slides)
+   1. Python 3.x
+   2. Anaconda
+   3. Markdown language
+   4. Jupyter Notebook (aka Python in a notebook)
 
 
-- **Section 3. A Byte of Python**
-[Slides](/notebooks)
- 1. "*computational thinking"*
- 1. Python programme execution
- 2. variables and expressions
- 3. data types
- 4. data structures
+### **Section 3. A Byte of Python** [Notebooks](/notebooks)
+  1. "*computational thinking"*
+  1. Python programme execution
+  2. variables and expressions
+  3. data types
+  4. data structures
    - list
    - dictionary
    - tuple
    - set
- 5. functions
- 6. control flow statements (issue: indentation)
+  5. functions
+  6. control flow statements (issue: indentation)
    - The conditions (```if```, ```else```, ```elif```)
    - The loops (```for```, ```while```, ```try``` and ```except```)  
 
 
- - **Section 4 (not covered today - someday it will RETURN!). Data science in Action**
-  1. the problem, the question, and the motivation
-  2. four of the many approaches to find a story
-  3. present a story
+### **Section 4 (not covered today - it will RETURN!). Data science in Action**
+   1. the problem, the question, and the motivation
+   2. four of the many approaches to find a story
+   3. present a story
 
 
 ## About the speaker
 Dr Xinzhi ZHANG (M.A. & Ph.D., CityU HK) is a Research Assistant Professor at JOUR. His research interests include comparative political communication, emerging technologies and social change, digital humanities, and data-driven journalism. His research works have been published on journals such as Computers in Human Behavior, International Political Science Review, and Digital Journalism. He has taught several storytelling courses such as Multimedia Communication (broadcasting and online media), Films and Storytelling (scripts and narrative), Languages, Cultures, and Communication (text and discourse), and Social Media Data Acquisition and Processing with Python. He now works for the Data and Media Communication Concentration at JOUR.
-
-*The course content will be enriched later. All slides and codes will be released.*
