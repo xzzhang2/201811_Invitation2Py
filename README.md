@@ -28,14 +28,14 @@ This one-day workshop, offered by the Data and Media Communication Concentration
   2. variables and expressions
   3. data types
   4. data structures
-   - list
-   - dictionary
-   - tuple
-   - set
+    - list
+    - dictionary
+    - tuple
+    - set
   5. functions
   6. control flow statements (issue: indentation)
-   - The conditions (```if```, ```else```, ```elif```)
-   - The loops (```for```, ```while```, ```try``` and ```except```)  
+    - The conditions (```if```, ```else```, ```elif```)
+    - The loops (```for```, ```while```, ```try``` and ```except```)  
 
 
 ### **Section 4 (not covered today - it will RETURN!). Data science in Action**
