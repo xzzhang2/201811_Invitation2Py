@@ -8,21 +8,21 @@ This one-day workshop, offered by the Data and Media Communication Concentration
 
 
 ## Content ##
-### **Section 1. Introduction** [Slides](/slides)
-   1. Who, What, How
-   2. Why programming
-   3. Digital and media education at a glance
-   4. Articulating the knowledge hub  
+### **Section 1. Introduction** ([Slides](/slides))
+   1. who, What, How
+   2. why programming
+   3. digital and media education at a glance
+   4. articulating an interdisciplinary knowledge hub  
 
 
-### **Section 2. Tool installation** [Slides](/slides)
+### **Section 2. Tool installation** ([Slides](/slides))
    1. Python 3.x
    2. Anaconda
    3. Markdown language
    4. Jupyter Notebook (aka Python in a notebook)
 
 
-### **Section 3. A Byte of Python** [Notebooks](/notebooks)
+### **Section 3. A Byte of Python** ([Notebooks](/notebooks))
   1. "*computational thinking"*
   1. Python programme execution
   2. variables and expressions
@@ -38,10 +38,11 @@ This one-day workshop, offered by the Data and Media Communication Concentration
     - The loops (```for```, ```while```, ```try``` and ```except```)  
 
 
-### **Section 4 (not covered today - it will RETURN!). Data science in Action**
+### **Section 4. Data science in Action (not covered today - it will RETURN!)**
    1. the problem, the question, and the motivation
    2. four of the many approaches to find a story
    3. present a story
+   4. Wrapping up
 
 
 ## About the speaker
