@@ -9,7 +9,7 @@ This one-day workshop, offered by the Data and Media Communication Concentration
 
 ## Content ##
 ### **Section 1. Introduction** ([Slides](/slides))
-   1. who, What, How
+   1. who, what, How
    2. why programming
    3. digital and media education at a glance
    4. articulating an interdisciplinary knowledge hub  
@@ -49,4 +49,4 @@ This one-day workshop, offered by the Data and Media Communication Concentration
 Dr Xinzhi ZHANG (M.A. & Ph.D., CityU HK) is a Research Assistant Professor at JOUR. His research interests include comparative political communication, emerging technologies and social change, digital humanities, and data-driven journalism. His research works have been published on journals such as *Computers in Human Behavior*, *International Political Science Review*, and *Digital Journalism*. He has taught several storytelling courses such as *Multimedia Communication* (broadcasting and online media), *Films and Storytelling* (scripts and narrative), *Languages, Cultures, and Communication* (text and discourse), and ***Social Media Data Acquisition and Processing with Python*** ([Course Repo](https://github.com/xzzhang2/201819A_cityu_com5507)). He now works for the *[Data and Media Communication Concentration](http://bu-dmc.hkbu.edu.hk/)* at JOUR.
 
 ## Acknowledgement  
-We shall give a big applaud to Dr Li Chen, the coordinator of DMC at the Department of Computer Science, who is very considerate to propose this workshop; and Dr Liang Lan from COMP, who previewed all the slides and codes and offered some comments. Mr Xu Chen (BSc CS, COMP) and Miss Can He (MSc ITM, COMP) tested all the codes and shared several suggestions from the perspective of a (CS) student; and of course, we shall thank Miss Ripple Yuan, the PA of DMC who carefully organized this workshop. 
+We shall give a big applaud to Dr Li Chen, the coordinator of DMC at the Department of Computer Science, who is very considerate to propose this workshop; and Dr Liang Lan from COMP, who previewed all the slides and codes and offered some comments. Mr Xu Chen (BSc CS, COMP) and Miss Can He (MSc ITM, COMP) tested all the codes and shared several suggestions from the perspective of a (CS) student; and of course, we shall thank Miss Ripple Yuan, the PA of DMC who carefully organized this workshop.
